@@ -1,4 +1,4 @@
-####// JS code for Mini alarm project 
+// JS code for Mini alarm project 
 
 
 
